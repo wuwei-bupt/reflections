@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+当新建一个仓库时，根文件目录下多了一些隐藏文件，来记录以前版本的文件。
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+我们可以把多个文件add进staging area，然后把对这几个文件的改动当成一个commit，相当于一个缓冲区。
